@@ -5,8 +5,10 @@
     <e p="C:\Users\AdminPC\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_ConsoleApp1.-943404783.00" t="ExcludeRecursive" />
     <e p="C:\Users\AdminPC\RiderProjects\ConsoleApp1" t="IncludeRecursive">
       <e p="bin" t="ExcludeRecursive" />
+      <e p="Circle.cs" t="Include" />
       <e p="ConsoleApp1.csproj" t="IncludeRecursive" />
       <e p="ConsoleApp1.sln" t="IncludeFlat" />
+      <e p="Game.cs" t="Include" />
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
           <e p="net5.0" t="Include">
